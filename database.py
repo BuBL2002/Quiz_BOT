@@ -113,19 +113,6 @@ async def update_achieved_achievements(user_id: int, achieve: str):
         )
     await _db_connection.commit()
 
-# Добавьте эту функцию для отладки
-async def debug_user_state(user_id: int):
-    """Выводит отладочную информацию о пользователе"""
-    async with _db_connection.execute(
-        "SELECT * FROM quiz_state WHERE user_id = ?", (user_id,)
-    ) as cursor:
-        row = await cursor.fetchone()
-        if row:
-            print(f"🔍 DEBUG: user_id={row['user_id']}, index={row['question_index']}, correct={row['current_correct']}, achievements='{row['achieved_achievements']}'")
-        else:
-            print(f"🔍 DEBUG: user_id={user_id} - нет записи в БД")
-
-  
 async def save_quiz_result(user_id: int, score: int, lang: str):
     """Сохраняет результат прохождения квиза"""
     await _db_connection.execute(
@@ -158,4 +145,5 @@ async def get_last_result(user_id: int) -> dict:
 async def close_db():
     """Закрывает соединение при завершении работы бота"""
     if _db_connection:
+
         await _db_connection.close()
