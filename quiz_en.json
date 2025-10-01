@@ -1,0 +1,92 @@
+[
+  {
+    "question": "💧 What should you add to the base of a hookah to make the smoke smoother?",
+    "options": ["Water", "Orange juice", "Milk", "Lemonade"],
+    "correct_option": 0,
+    "image": "images/image_1.jpg"
+  },
+  {
+    "question": "🌿 What do you smoke in a hookah?",
+    "options": ["Tobacco", "Tea", "Coffee", "Sugar"],
+    "correct_option": 0,
+    "image": "images/image_2.jpg"
+  },
+  {
+    "question": "🔥 What color is the best charcoal for a hookah?",
+    "options": ["Black", "Red", "White", "Green"],
+    "correct_option": 0,
+    "image": "images/image_3.jpg"
+  },
+  {
+    "question": "🌿 What makes hookah tobacco sweet and flavorful?",
+    "options": ["Sugar and flavorings", "Salt", "Vinegar", "Pepper"],
+    "correct_option": 0,
+    "image": "images/image_12.jpg"
+  },
+  {
+    "question": "🔥 What should you cover the tobacco with to prevent it from burning too quickly?",
+    "options": ["Foil", "Plastic wrap", "Paper", "Leaves"],
+    "correct_option": 0,
+    "image": "images/image_5.jpg"
+  },
+  {
+    "question": "🌀 What is the tube called that carries the smoke to you?",
+    "options": ["Hose", "Pipe", "Stick", "Straw"],
+    "correct_option": 0,
+    "image": "images/image_6.jpg"
+  },
+  {
+    "question": "💧 Is it better to smoke with ice or without?",
+    "options": ["With ice", "Without ice", "The same", "I don't know"],
+    "correct_option": 0,
+    "image": "images/image_7.jpg"
+  },
+  {
+    "question": "🌿 What flavor of tobacco is most commonly bought at hookah lounges?",
+    "options": ["Apple", "Coffee", "Meat", "Cheese"],
+    "correct_option": 0,
+    "image": "images/image_8.jpg"
+  },
+  {
+    "question": "🔥 What should you do if the smoke isn't drawing well?",
+    "options": ["Change the charcoal", "Pull harder", "Add more water", "Wait"],
+    "correct_option": 0,
+    "image": "images/image_9.jpg"
+  },
+  {
+    "question": "💧 What should you do with the hookah after smoking?",
+    "options": ["Clean it", "Pour out the water", "Bury it", "Burn it"],
+    "correct_option": 0,
+    "image": "images/image_10.jpg"
+  },
+  {
+    "question": "💧 What makes the hookah \"gurgle\"?",
+    "options": ["Water", "Charcoal", "Tobacco", "Wind"],
+    "correct_option": 0,
+    "image": "images/image_11.jpg"
+  },
+  {
+    "question": "🌿 Which tobacco produces the most smoke?",
+    "options": ["Sweet", "Dry", "Bitter", "Salty"],
+    "correct_option": 0,
+    "image": "images/image_12.jpg"
+  },
+  {
+    "question": "🌀 Is it better to have one hose or two?",
+    "options": ["Two", "One", "Three", "Doesn't matter"],
+    "correct_option": 0,
+    "image": "images/image_10.jpg"
+  },
+  {
+    "question": "🌿 What scent is most common in hookah tobacco?",
+    "options": ["Mint", "Dust", "Gasoline", "Fish"],
+    "correct_option": 0,
+    "image": "images/image_11.jpg"
+  },
+  {
+    "question": "💧 What should you check before starting to smoke?",
+    "options": ["Check if it's leaking", "Eat a shawarma", "Sing a song", "Call a friend"],
+    "correct_option": 0,
+    "image": "images/image_12.jpg"
+  }
+]
